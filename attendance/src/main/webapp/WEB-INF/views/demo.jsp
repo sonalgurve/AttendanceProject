@@ -13,7 +13,7 @@ ${attendanceList}
         <label>Date:</label>
         <input type="date" name="date" required>
 
-        <label>Department:</label>
+        <label>Department------:</label>
         <select name="dept" required>
             <option value="IT Department">IT Department</option>
             <option value="CSR Department">CSR Department</option>
